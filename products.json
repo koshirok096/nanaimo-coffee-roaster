@@ -1,0 +1,44 @@
+[
+  {
+    "title": "NANAIMO Blend Espresso",
+    "id": "NANAIMO Blend Espresso",
+    "description": "Essential of NANAIMO Blend",
+    "price": "12.00",
+    "image": "/images/Coffee_Mock_1.png"
+  },
+  {
+    "title": "NANAIMO Blend Espresso Gift Bags",
+    "id": "NANAIMO Blend Espresso Gift Bags",
+    "description": "Gift Bags.",
+    "price": "18.00",
+    "image": "/images/Coffee_Mock_2.png"
+  },
+  {
+    "title": "Filter Coffee Gift Bags",
+    "id": "Filter Coffee Gift Bags",
+    "description": "Gift Bags.",
+    "price": "14.00",
+    "image": "/images/Coffee_Mock_4.png"
+  },
+  {
+    "title": "Kilimanjaro Supreme",
+    "id": "Kilimanjaro Supreme",
+    "description": "Caramel Flavoured.",
+    "price": "12.00",
+    "image": "/images/Coffee_Mock_3.png"
+  },
+  {
+    "title": "Saskatchewan Water DECAF",
+    "id": "Saskatchewan Water DECAF",
+    "description": "Smooth and Creamy Saskatchewan Water Made DECAF.",
+    "price": "17.00",
+    "image": "/images/Coffee_Mock_5.png"
+  },
+  {
+    "title": "COLOMBIA Blend",
+    "id": "COLOMBIA Blend",
+    "description": "Rich and Creamy COLOMBIA Special Blend.",
+    "price": "15.00",
+    "image": "/images/Coffee_Mock_6.png"
+  }
+]

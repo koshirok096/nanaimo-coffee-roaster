@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Moccamaster Glass White",
+    "id": "Moccamaster Glass White",
+    "description": "Moccamaster Glass",
+    "price": "52.00",
+    "image": "/images/Moccamaster_Glass_White_540x.png"
+  },
+  {
+    "title": "Brown Tote Bag",
+    "id": "Brown Tote Bag",
+    "description": "Nanaimo Coffee Roaster's Brown Tote Bag.",
+    "price": "15.00",
+    "image": "/images/Merch_Mock_3.png"
+  },
+  {
+    "title": "Original Sweat",
+    "id": "Original Sweat",
+    "description": "Sweat with NCR logo. For men and women.",
+    "price": "20.00",
+    "image": "/images/Merch_Mock_2.png"
+  },
+  {
+    "title": "Set of Disposable Cup with NCR Logo",
+    "id": "Cup",
+    "description": "36 Set of Disposable Cups with NCR Logo.",
+    "price": "15.00",
+    "image": "/images/Merch_Mock_1.png"
+  },
+    {
+    "title": "NCR Original Sticker",
+    "id": "Original Sticker",
+    "description": "Nanaimo Coffee Roaster's OG Sticker.",
+    "price": "7.00",
+    "image": "/images/Sticker_Merch.png"
+  }
+]
